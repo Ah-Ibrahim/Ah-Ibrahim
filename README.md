@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 - AI
 
 ### 📫 How to reach me: ...
-- (LinkedIn)[https://www.linkedin.com/in/ahmed-ibrahim-807258243/]
+- [LinkedIn](https://www.linkedin.com/in/ahmed-ibrahim-807258243/)
 
 <!--
 **Ah-Ibrahim/Ah-Ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
