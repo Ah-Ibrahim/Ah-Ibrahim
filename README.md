@@ -1,5 +1,10 @@
-# Hi there 👋
+# Hi there! 👋
+Welcome to my GitHub profile! I’m a developer passionate about web development
 
+
+### 🔧 Technologies I Use:
+- 🖥️ **Frontend:** HTML, CSS, JavaScript
+- 🛢️ **Databases:** MySQL
 <!--
 **Ah-Ibrahim/Ah-Ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
