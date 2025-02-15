@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 - 🖥️ **Frontend:** HTML, CSS, JavaScript
 - 🛢️ **Databases:** MySQL
 
-### 🚀 I’m currently learning ...
+### 🚀 I’m currently learning:
 - JavaScript
 - AI
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ahmed-ibrahim-807258243/)
 
 <!--
