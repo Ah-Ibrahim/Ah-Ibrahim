@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 ### 🔧 Technologies I Use:
 - 🖥️ **Frontend:** HTML, CSS, JavaScript
 - 🛢️ **Databases:** MySQL
+- 🤖 **AI**: Python
 
 ### 🚀 I’m currently learning:
 - JavaScript
