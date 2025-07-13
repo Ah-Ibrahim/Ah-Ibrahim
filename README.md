@@ -3,12 +3,12 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 
 
 ### 🔧 Technologies I Use:
-- 🖥️ **Frontend:** HTML, CSS, JavaScript
+- 🖥️ **Frontend:** HTML, CSS, JavaScript, React
 - 🛢️ **Databases:** MySQL
 - 🤖 **AI**: Python
 
 ### 🚀 I’m currently learning:
-- JavaScript
+- React
 - AI
 
 ### 📫 How to reach me:
