@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 
 
 ### 🔧 Technologies I Use:
-- 🖥️ **Frontend:** HTML, CSS, TypeScript, Zod, React
+- 🖥️ **Frontend:** HTML, CSS, Tailwind, TypeScript, Zod, React
 - 🛢️ **Databases:** MySQL
 - 🤖 **AI**: Python
 
